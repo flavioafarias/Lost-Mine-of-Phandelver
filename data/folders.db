@@ -1,4 +1,5 @@
 {"name":"Items","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"6HRSzyxS8rL65OsC"}
+{"name":"Creatures","type":"Actor","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"8hIe9XcAQiWGTBXe"}
+{"name":"Lost Mine of Phandelver","type":"JournalEntry","parent":null,"sorting":"m","sort":0,"flags":{},"_id":"eLftZ2PrXJG6TlKO"}
 {"name":"Spells","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"gt85att9uOie1SD1"}
-{"name":"Lost Mine of Phandelver","type":"JournalEntry","parent":null,"sorting":"m","sort":0,"flags":{},"_id":"lFqQJ4T8DDZLoBqW"}
 {"name":"Tables","type":"RollTable","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"qgMYGgTIabi0nI17"}
