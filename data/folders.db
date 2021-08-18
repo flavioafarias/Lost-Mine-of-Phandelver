@@ -1,5 +1,7 @@
 {"name":"Items","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"6HRSzyxS8rL65OsC"}
 {"name":"Creatures","type":"Actor","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"8hIe9XcAQiWGTBXe"}
+{"name":"PC","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"bJYLl6nP64Q71P5e"}
 {"name":"Lost Mine of Phandelver","type":"JournalEntry","parent":null,"sorting":"m","sort":0,"flags":{},"_id":"eLftZ2PrXJG6TlKO"}
 {"name":"Spells","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"gt85att9uOie1SD1"}
+{"name":"Traps","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"jfmXpMmv8c2HVMyv"}
 {"name":"Tables","type":"RollTable","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"qgMYGgTIabi0nI17"}
